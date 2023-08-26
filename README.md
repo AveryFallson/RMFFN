@@ -1,2 +1,2 @@
 # RMFFN
-Reinforcement Learning Based Multimodal Feature Fusion Network For Open-set 3D Model Classification and Retrieval
+Reinforcement Learning Based Multi-modal Feature Fusion Network for Novel Class Discovery
